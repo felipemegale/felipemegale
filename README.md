@@ -1,4 +1,4 @@
-<h2>Oi, eu sou o <span style="text-decoration: line-through">Goku</span> Felipe!</h2>
+<h2>Oi, eu sou o Felipe!</h2>
 
 Mas pode me chamar de Megale, ok?
 
