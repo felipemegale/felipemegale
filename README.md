@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Oi, eu sou o <span style="text-decoration: line-through">Goku</span> Felipe!</h2>
 
-<!--
-**felipemegale/felipemegale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mas pode me chamar de Megale, ok?
 
-Here are some ideas to get you started:
+<a href="https://github.com/felipemegale">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipemegale&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipemegale&layout=compact&langs_count=8&theme=merko"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline block">
+  <a href = "mailto: felipe.megale17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fmegale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/felipemegale" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<p style="font-size: 12px">Design inspirado por <a href="https://github.com/rafaballerini" target="_blank">@rafaballerini</a></p>
