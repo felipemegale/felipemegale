@@ -1,6 +1,6 @@
-<h2>Oi, eu sou o Felipe!</h2>
+<h2>Hi, I'm Felipe!</h2>
 
-Mas pode me chamar de Megale, ok?
+But you can call me Megale too, ok?
 
 <a href="https://github.com/felipemegale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemegale&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
